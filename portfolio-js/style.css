@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Tahoma, Serif;
+    color: #263238;
+  }
+
+img{
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+}
+
+
+
+
+
+
+
+
